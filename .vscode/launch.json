@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/dongyanshen/Desktop/DYSProjects/TBProject/C_24Sep06/files",
+      "program": "/Users/dongyanshen/Desktop/DYSProjects/TBProject/C_24Sep06/files/build/Debug/outDebug"
+    }
+  ]
+}

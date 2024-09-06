@@ -1,0 +1,6 @@
+Carlton -->
+COMP20003 Code: 9773,Official Code Suburb: 20495,Official Name Suburb: Carlton,Year: 2021 ,Official Code State: 2,Official Name State: Victoria,Official Code Local Government Area: 24600,Official Name Local Government Area: Melbourne,Latitude: -37.800439,Longitude: 144.968090
+South Melbourne -->
+COMP20003 Code: 4377,Official Code Suburb: 21966,Official Name Suburb: North Melbourne,Year: 2021 ,Official Code State: 2,Official Name State: Victoria,Official Code Local Government Area: 24600,Official Name Local Government Area: Melbourne,Latitude: -37.798483,Longitude: 144.944856
+South Yarra -->
+COMP20003 Code: 5004,Official Code Suburb: 22314,Official Name Suburb: South Yarra,Year: 2021 ,Official Code State: 2,Official Name State: Victoria,Official Code Local Government Area: "24600, 26350, 27350",Official Name Local Government Area: "Melbourne, Stonnington, Yarra",Latitude: -37.839282,Longitude: 144.991914
